@@ -1,0 +1,2 @@
+def ignit():
+    print("boom!")
